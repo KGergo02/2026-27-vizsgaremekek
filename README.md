@@ -1,2 +1,15 @@
-# 2026-27-vizsgaremekek
-2026-27 vizsgaremek projektet
+# (Projekt neve)
+
+# Csapattagok
+- Név
+- Név
+- Név
+
+# Projekt leírása
+
+(Projekt leírása saját szavaiddal)
+
+# Tervezett termékek
+- Weblap (backend + frontend) **kötelező**
+- Natív asztali alkalmazás (opcionális)
+- Natív mobilalkalmazás (opcionális)
